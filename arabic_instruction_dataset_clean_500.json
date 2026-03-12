@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "صباح الخير",
+    "output": "Good morning"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "مساء الخير",
+    "output": "Good evening"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "كيف حالك",
+    "output": "How are you"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "شكرا لك",
+    "output": "Thank you"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "من فضلك افتح الباب",
+    "output": "Please open the door"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أنا أتعلم البرمجة",
+    "output": "I am learning programming"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب قراءة الكتب",
+    "output": "I love reading books"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "القهوة مشروبي المفضل",
+    "output": "Coffee is my favorite drink"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الجو جميل اليوم",
+    "output": "The weather is beautiful today"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "ذهبت إلى المدرسة مبكرا",
+    "output": "I went to school early"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد تحسين لغتي الإنجليزية",
+    "output": "I want to improve my English"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "التعلم المستمر مفتاح النجاح",
+    "output": "Continuous learning is the key to success"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الذكاء الاصطناعي يغير العالم",
+    "output": "Artificial intelligence is changing the world"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذا الاجتماع مهم جدا",
+    "output": "This meeting is very important"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى مزيد من الوقت",
+    "output": "I need more time"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "بدأت رحلتي في علم البيانات",
+    "output": "I started my journey in data science"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "القراءة توسع المدارك",
+    "output": "Reading broadens the mind"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب العمل الجماعي",
+    "output": "I like teamwork"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "يجب احترام الوقت",
+    "output": "Time should be respected"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "النجاح يحتاج إلى صبر",
+    "output": "Success requires patience"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أبحث عن فرصة جديدة",
+    "output": "I am looking for a new opportunity"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذه فكرة ممتازة",
+    "output": "This is an excellent idea"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد كوبا من القهوة",
+    "output": "I want a cup of coffee"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هل يمكنك مساعدتي",
+    "output": "Can you help me"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب التعلم من التجربة",
+    "output": "I like learning from experience"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "المدينة مزدحمة اليوم",
+    "output": "The city is crowded today"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "نسيت هاتفي في المنزل",
+    "output": "I forgot my phone at home"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "العمل المنظم يوفر الوقت",
+    "output": "Organized work saves time"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "النتائج كانت إيجابية",
+    "output": "The results were positive"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحاول أن أكون أفضل كل يوم",
+    "output": "I try to be better every day"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى خطة واضحة",
+    "output": "I need a clear plan"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "سأبدأ المشروع غدا",
+    "output": "I will start the project tomorrow"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "المعرفة قوة",
+    "output": "Knowledge is power"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الطريق طويل لكنه ممكن",
+    "output": "The road is long but possible"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب هدوء الصباح",
+    "output": "I love the calm of the morning"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد تطوير مهاراتي التقنية",
+    "output": "I want to develop my technical skills"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذا التقرير يحتاج إلى مراجعة",
+    "output": "This report needs review"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الفريق حقق إنجازا كبيرا",
+    "output": "The team achieved a great accomplishment"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "التنظيم الجيد يصنع الفرق",
+    "output": "Good organization makes the difference"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحترم من يلتزم بكلمته",
+    "output": "I respect those who keep their word"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "يجب أن نتعلم من الأخطاء",
+    "output": "We should learn from mistakes"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب البساطة في الكتابة",
+    "output": "I like simplicity in writing"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "المشروع يسير في الاتجاه الصحيح",
+    "output": "The project is moving in the right direction"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أرغب في حضور هذه الدورة",
+    "output": "I would like to attend this course"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "المهارات العملية مهمة",
+    "output": "Practical skills are important"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "لا تؤجل عمل اليوم",
+    "output": "Do not delay today's work"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "التعاون أساس النجاح",
+    "output": "Cooperation is the foundation of success"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أتطلع إلى المستقبل بتفاؤل",
+    "output": "I look to the future with optimism"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذا اليوم كان طويلا",
+    "output": "This day was long"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى استراحة قصيرة",
+    "output": "I need a short break"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الاجتهاد يثمر نتائج رائعة",
+    "output": "Hard work produces great results"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "نبدأ الاجتماع بعد قليل",
+    "output": "We will start the meeting shortly"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "وصلت الرسالة بوضوح",
+    "output": "The message was received clearly"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذه تجربة مفيدة",
+    "output": "This is a useful experience"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب تعلم أشياء جديدة",
+    "output": "I like learning new things"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الصبر مفتاح الفرج",
+    "output": "Patience is the key to relief"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "العمل الجاد يصنع النجاح",
+    "output": "Hard work creates success"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذه المعلومة مهمة جدا",
+    "output": "This information is very important"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى ترتيب أولوياتي",
+    "output": "I need to organize my priorities"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب القهوة في الصباح",
+    "output": "I like coffee in the morning"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أفكر في دراسة الذكاء الاصطناعي",
+    "output": "I am thinking about studying artificial intelligence"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذا السؤال يحتاج إلى توضيح",
+    "output": "This question needs clarification"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد كتابة رسالة رسمية",
+    "output": "I want to write a formal message"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "بدأنا العمل مبكرا اليوم",
+    "output": "We started work early today"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "كان العرض ممتازا",
+    "output": "The presentation was excellent"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أشعر بالحماس لهذا المشروع",
+    "output": "I feel excited about this project"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "اللغة العربية جميلة",
+    "output": "The Arabic language is beautiful"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب مشاركة المعرفة",
+    "output": "I like sharing knowledge"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذا القرار مناسب",
+    "output": "This decision is appropriate"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى مراجعة الملف",
+    "output": "I need to review the file"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "التقنية تتطور بسرعة",
+    "output": "Technology is evolving quickly"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أرغب في تعلم مهارة جديدة",
+    "output": "I want to learn a new skill"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أتمنى لك يوما سعيدا",
+    "output": "I wish you a happy day"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد تحسين جودة الكتابة",
+    "output": "I want to improve the quality of writing"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذا النص يحتاج إلى تلخيص",
+    "output": "This text needs summarization"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب الوضوح في التواصل",
+    "output": "I like clarity in communication"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "العلم نور",
+    "output": "Knowledge is light"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أرغب في بناء مشروع صغير",
+    "output": "I want to build a small project"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذه بداية جيدة",
+    "output": "This is a good start"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى مساعدة إضافية",
+    "output": "I need additional help"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الأفكار الواضحة تسهل العمل",
+    "output": "Clear ideas make work easier"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أنا متحمس للتعلم",
+    "output": "I am excited to learn"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الممارسة تصنع الإتقان",
+    "output": "Practice leads to mastery"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد فهم هذا الدرس",
+    "output": "I want to understand this lesson"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الاجتماع تأجل إلى الغد",
+    "output": "The meeting was postponed until tomorrow"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذه الخطوة مهمة",
+    "output": "This step is important"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب التخطيط المسبق",
+    "output": "I like planning ahead"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "يجب احترام آراء الآخرين",
+    "output": "Others' opinions should be respected"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى نسخة محدثة",
+    "output": "I need an updated version"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "التقدم البسيط أفضل من التوقف",
+    "output": "Small progress is better than stopping"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "كان اليوم مثمرا",
+    "output": "Today was productive"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أبحث عن مصادر موثوقة",
+    "output": "I am looking for reliable sources"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذه فرصة جيدة للتعلم",
+    "output": "This is a good opportunity to learn"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "الفكرة تحتاج إلى تطوير",
+    "output": "The idea needs development"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد نتائج أوضح",
+    "output": "I want clearer results"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحب العمل الهادئ",
+    "output": "I like calm work"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "سأرسل الملف لاحقا",
+    "output": "I will send the file later"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "هذه جملة بسيطة",
+    "output": "This is a simple sentence"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أحتاج إلى إعادة الصياغة",
+    "output": "I need rephrasing"
+  },
+  {
+    "instruction": "ترجم إلى الإنجليزية",
+    "input": "أريد تعلما منظما وواضحا",
+    "output": "I want organized and clear learning"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Good morning",
+    "output": "صباح الخير"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Good evening",
+    "output": "مساء الخير"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "How are you",
+    "output": "كيف حالك"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Thank you very much",
+    "output": "شكرا جزيلا"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Please send the file",
+    "output": "من فضلك ارسل الملف"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I am learning machine learning",
+    "output": "انا اتعلم التعلم الآلي"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Data science is important",
+    "output": "علم البيانات مهم"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This is a useful book",
+    "output": "هذا كتاب مفيد"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The weather is nice today",
+    "output": "الجو جميل اليوم"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I need more practice",
+    "output": "احتاج الى مزيد من الممارسة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Reading improves language skills",
+    "output": "القراءة تحسن المهارات اللغوية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Artificial intelligence is a growing field",
+    "output": "الذكاء الاصطناعي مجال متنام"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I want to write a short report",
+    "output": "اريد كتابة تقرير قصير"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This meeting starts at nine",
+    "output": "يبدا هذا الاجتماع عند التاسعة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The project needs revision",
+    "output": "المشروع يحتاج الى مراجعة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Learning never stops",
+    "output": "التعلم لا يتوقف"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Clear communication is important",
+    "output": "التواصل الواضح مهم"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I love the quiet of the morning",
+    "output": "احب هدوء الصباح"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Practice makes improvement",
+    "output": "الممارسة تصنع التحسن"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "We should respect time",
+    "output": "يجب ان نحترم الوقت"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This result is encouraging",
+    "output": "هذه النتيجة مشجعة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I need a new plan",
+    "output": "احتاج الى خطة جديدة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Technology changes quickly",
+    "output": "التقنية تتغير بسرعة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The idea is simple and clear",
+    "output": "الفكرة بسيطة وواضحة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I like working with a team",
+    "output": "احب العمل مع فريق"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This task is easy",
+    "output": "هذه المهمة سهلة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This task is difficult",
+    "output": "هذه المهمة صعبة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "We will meet tomorrow",
+    "output": "سنلتقي غدا"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The message is clear",
+    "output": "الرسالة واضحة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I want better results",
+    "output": "اريد نتائج افضل"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This lesson is useful",
+    "output": "هذا الدرس مفيد"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The report is ready",
+    "output": "التقرير جاهز"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The student arrived early",
+    "output": "وصل الطالب مبكرا"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Coffee is my favorite drink",
+    "output": "القهوة مشروبي المفضل"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Success requires patience",
+    "output": "النجاح يحتاج الى صبر"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This question needs clarification",
+    "output": "هذا السؤال يحتاج الى توضيح"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The team did a great job",
+    "output": "قام الفريق بعمل رائع"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I am proud of this work",
+    "output": "انا فخور بهذا العمل"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Knowledge grows with reading",
+    "output": "تنمو المعرفة مع القراءة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "We need a better solution",
+    "output": "نحتاج الى حل افضل"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The road is long but possible",
+    "output": "الطريق طويل لكنه ممكن"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I want to improve my writing",
+    "output": "اريد تحسين كتابتي"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This explanation is short",
+    "output": "هذا الشرح قصير"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This example is simple",
+    "output": "هذا المثال بسيط"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Work needs focus",
+    "output": "العمل يحتاج الى تركيز"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I like clear ideas",
+    "output": "احب الافكار الواضحة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The plan starts today",
+    "output": "تبدأ الخطة اليوم"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This is a formal message",
+    "output": "هذه رسالة رسمية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The city is crowded",
+    "output": "المدينة مزدحمة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I need a quiet place",
+    "output": "احتاج الى مكان هادئ"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This is a good beginning",
+    "output": "هذه بداية جيدة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Progress takes time",
+    "output": "التقدم يحتاج الى وقت"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The answer is correct",
+    "output": "الاجابة صحيحة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The answer is not complete",
+    "output": "الاجابة غير مكتملة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This summary is accurate",
+    "output": "هذا الملخص دقيق"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I want to learn Arabic",
+    "output": "اريد تعلم العربية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I want to learn English",
+    "output": "اريد تعلم الانجليزية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This course is excellent",
+    "output": "هذه الدورة ممتازة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Please review the document",
+    "output": "من فضلك راجع المستند"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "We need more examples",
+    "output": "نحتاج الى امثلة اكثر"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The team needs support",
+    "output": "الفريق يحتاج الى دعم"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This topic is interesting",
+    "output": "هذا الموضوع ممتع"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The text is too long",
+    "output": "النص طويل جدا"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Please shorten the paragraph",
+    "output": "من فضلك اختصر الفقرة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I need a formal tone",
+    "output": "احتاج الى نبرة رسمية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I prefer simple language",
+    "output": "افضل اللغة البسيطة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The result looks good",
+    "output": "النتيجة تبدو جيدة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This file is important",
+    "output": "هذا الملف مهم"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This step is necessary",
+    "output": "هذه الخطوة ضرورية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Learning is a journey",
+    "output": "التعلم رحلة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I am ready to start",
+    "output": "انا جاهز للبدء"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This task requires accuracy",
+    "output": "هذه المهمة تتطلب دقة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "We should avoid repetition",
+    "output": "يجب ان نتجنب التكرار"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This paragraph needs editing",
+    "output": "هذه الفقرة تحتاج الى تحرير"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The sentence is not clear",
+    "output": "الجملة غير واضحة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Please write a short sentence",
+    "output": "من فضلك اكتب جملة قصيرة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I need a quick summary",
+    "output": "احتاج الى ملخص سريع"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This response is helpful",
+    "output": "هذه الاستجابة مفيدة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The explanation is easy",
+    "output": "الشرح سهل"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The system is working well",
+    "output": "النظام يعمل بشكل جيد"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The model needs fine tuning",
+    "output": "النموذج يحتاج الى ضبط دقيق"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This dataset is clean",
+    "output": "هذه البيانات نظيفة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The examples are diverse",
+    "output": "الامثلة متنوعة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I want a better translation",
+    "output": "اريد ترجمة افضل"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "Please correct the sentence",
+    "output": "من فضلك صحح الجملة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The summary should be shorter",
+    "output": "يجب ان يكون الملخص اقصر"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This response is too long",
+    "output": "هذه الاستجابة طويلة جدا"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I need a clearer answer",
+    "output": "احتاج الى اجابة اوضح"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The lesson starts now",
+    "output": "يبدا الدرس الان"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I like useful feedback",
+    "output": "احب الملاحظات المفيدة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This document is updated",
+    "output": "هذا المستند محدث"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The plan is realistic",
+    "output": "الخطة واقعية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This title is suitable",
+    "output": "هذا العنوان مناسب"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I am interested in technology",
+    "output": "انا مهتم بالتقنية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "We need more data",
+    "output": "نحتاج الى بيانات اكثر"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This version is better",
+    "output": "هذه النسخة افضل"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The meeting was useful",
+    "output": "كان الاجتماع مفيدا"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "This message is polite",
+    "output": "هذه الرسالة مهذبة"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "I need the final version",
+    "output": "احتاج الى النسخة النهائية"
+  },
+  {
+    "instruction": "ترجم إلى العربية",
+    "input": "The task is almost done",
+    "output": "المهمة قاربت على الانتهاء"
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. في بيئة التعلم.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. في بيئة العمل.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. في المجال التقني.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. في الحياة اليومية.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. في فرق المشاريع.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. عند بدء مشروع جديد.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. للطلبة.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. للمهتمين بالتقنية.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. في المؤسسات.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "الذكاء الاصطناعي مجال واسع يهتم ببناء أنظمة قادرة على التعلم واتخاذ القرار وتحليل البيانات بطرق ذكية. عند تطوير المهارات.",
+    "output": "الذكاء الاصطناعي مجال لبناء أنظمة ذكية تتعلم وتحلل البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. في بيئة التعلم.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. في بيئة العمل.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. في المجال التقني.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. في الحياة اليومية.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. في فرق المشاريع.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. عند بدء مشروع جديد.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. للطلبة.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. للمهتمين بالتقنية.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. في المؤسسات.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القهوة مشروب شائع حول العالم ويعتمد عليه كثير من الناس لزيادة التركيز والنشاط خلال ساعات العمل والدراسة. عند تطوير المهارات.",
+    "output": "القهوة مشروب يساعد كثيرا من الناس على التركيز والنشاط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. في بيئة التعلم.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. في بيئة العمل.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. في المجال التقني.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. في الحياة اليومية.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. في فرق المشاريع.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. عند بدء مشروع جديد.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. للطلبة.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. للمهتمين بالتقنية.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. في المؤسسات.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "القراءة اليومية تساعد على تطوير اللغة وتوسيع المعرفة وتحسين القدرة على التفكير والتعبير بشكل أوضح. عند تطوير المهارات.",
+    "output": "القراءة اليومية تطور اللغة وتوسع المعرفة."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. في بيئة التعلم.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. في بيئة العمل.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. في المجال التقني.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. في الحياة اليومية.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. في فرق المشاريع.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. عند بدء مشروع جديد.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. للطلبة.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. للمهتمين بالتقنية.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. في المؤسسات.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "العمل الجماعي يحقق نتائج أفضل عندما يكون هناك وضوح في الأدوار وتعاون واحترام متبادل بين جميع أعضاء الفريق. عند تطوير المهارات.",
+    "output": "العمل الجماعي ينجح مع وضوح الأدوار والتعاون."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. في بيئة التعلم.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. في بيئة العمل.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. في المجال التقني.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. في الحياة اليومية.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. في فرق المشاريع.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. عند بدء مشروع جديد.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. للطلبة.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. للمهتمين بالتقنية.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. في المؤسسات.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعلم الآلي فرع من الذكاء الاصطناعي يركز على بناء نماذج تتعلم من البيانات وتتحسن مع كثرة الأمثلة. عند تطوير المهارات.",
+    "output": "التعلم الآلي يبني نماذج تتحسن بالتعلم من البيانات."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. في بيئة التعلم.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. في بيئة العمل.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. في المجال التقني.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. في الحياة اليومية.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. في فرق المشاريع.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. عند بدء مشروع جديد.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. للطلبة.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. للمهتمين بالتقنية.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. في المؤسسات.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "كتابة التقارير تحتاج إلى تنظيم الأفكار وتقديم المعلومات بطريقة مختصرة وواضحة ومنطقية للقارئ. عند تطوير المهارات.",
+    "output": "كتابة التقارير تحتاج إلى تنظيم ووضوح واختصار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. في بيئة التعلم.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. في بيئة العمل.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. في المجال التقني.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. في الحياة اليومية.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. في فرق المشاريع.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. عند بدء مشروع جديد.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. للطلبة.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. للمهتمين بالتقنية.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. في المؤسسات.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "إدارة الوقت مهارة أساسية تساعد على إنجاز المهام وتقليل الضغط وتحسين جودة العمل والحياة اليومية. عند تطوير المهارات.",
+    "output": "إدارة الوقت تساعد على الإنجاز وتقليل الضغط."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. في بيئة التعلم.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. في بيئة العمل.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. في المجال التقني.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. في الحياة اليومية.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. في فرق المشاريع.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. عند بدء مشروع جديد.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. للطلبة.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. للمهتمين بالتقنية.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. في المؤسسات.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التقنية تتطور بسرعة كبيرة لذلك يحتاج المتعلم إلى متابعة المستجدات وتحديث مهاراته باستمرار. عند تطوير المهارات.",
+    "output": "تطور التقنية السريع يتطلب تحديث المهارات باستمرار."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. في بيئة التعلم.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. في بيئة العمل.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. في المجال التقني.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. في الحياة اليومية.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. في فرق المشاريع.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. عند بدء مشروع جديد.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. للطلبة.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. للمهتمين بالتقنية.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. في المؤسسات.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التخطيط الجيد قبل بدء أي مشروع يقلل الأخطاء ويساعد على توزيع الجهد والوقت بشكل أفضل. عند تطوير المهارات.",
+    "output": "التخطيط الجيد يقلل الأخطاء ويحسن توزيع الوقت."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. في بيئة التعلم.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. في بيئة العمل.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. في المجال التقني.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. في الحياة اليومية.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. في فرق المشاريع.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. عند بدء مشروع جديد.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. للطلبة.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. للمهتمين بالتقنية.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. في المؤسسات.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "لخص النص",
+    "input": "التعليم المستمر يمنح الإنسان فرصا أكبر للتطور المهني والفكري ويزيد قدرته على التكيف مع التغيرات. عند تطوير المهارات.",
+    "output": "التعليم المستمر يدعم التطور ويزيد القدرة على التكيف."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه في الصباح",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه اليوم",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه هذا الأسبوع",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه في المنزل",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه مع الأصدقاء",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه في المكتب",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه في الجامعة",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه في الفصل",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه بكل سرور",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "انا احب القهوه بوضوح",
+    "output": "أنا أحب القهوة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس في الصباح",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس اليوم",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس هذا الأسبوع",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس في المنزل",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس مع الأصدقاء",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس في المكتب",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس في الجامعة",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس في الفصل",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس بكل سرور",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "ذهبت الى المدرسه امس بوضوح",
+    "output": "ذهبت إلى المدرسة أمس."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم في الصباح",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم اليوم",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم هذا الأسبوع",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم في المنزل",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم مع الأصدقاء",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم في المكتب",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم في الجامعة",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم في الفصل",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم بكل سرور",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الذكاء الاصطناعى مجال مهم بوضوح",
+    "output": "الذكاء الاصطناعي مجال مهم."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا في الصباح",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا اليوم",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا هذا الأسبوع",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا في المنزل",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا مع الأصدقاء",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا في المكتب",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا في الجامعة",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا في الفصل",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا بكل سرور",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "هذه الفكره جميله جدا بوضوح",
+    "output": "هذه الفكرة جميلة جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه في الصباح",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه اليوم",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه هذا الأسبوع",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه في المنزل",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه مع الأصدقاء",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه في المكتب",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه في الجامعة",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه في الفصل",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه بكل سرور",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "اريد ان اتعلم البرمجه بوضوح",
+    "output": "أريد أن أتعلم البرمجة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا في الصباح",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا اليوم",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا هذا الأسبوع",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا في المنزل",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا مع الأصدقاء",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا في المكتب",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا في الجامعة",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا في الفصل",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا بكل سرور",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الاجتماع كان مفيد جدا بوضوح",
+    "output": "الاجتماع كان مفيدا جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع في الصباح",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع اليوم",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع هذا الأسبوع",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع في المنزل",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع مع الأصدقاء",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع في المكتب",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع في الجامعة",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع في الفصل",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع بكل سرور",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "قرات كتاب جديد هذا الاسبوع بوضوح",
+    "output": "قرأت كتابا جديدا هذا الأسبوع."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه في الصباح",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه اليوم",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه هذا الأسبوع",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه في المنزل",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه مع الأصدقاء",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه في المكتب",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه في الجامعة",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه في الفصل",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه بكل سرور",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "نحتاج الى خطه واضحه بوضوح",
+    "output": "نحتاج إلى خطة واضحة."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا في الصباح",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا اليوم",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا هذا الأسبوع",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا في المنزل",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا مع الأصدقاء",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا في المكتب",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا في الجامعة",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا في الفصل",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا بكل سرور",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "الجو اليوم جميل جدا بوضوح",
+    "output": "الجو اليوم جميل جدا."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون في الصباح",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون اليوم",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون هذا الأسبوع",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون في المنزل",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون مع الأصدقاء",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون في المكتب",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون في الجامعة",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون في الفصل",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون بكل سرور",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "صحح الجملة",
+    "input": "احب العمل مع فريق متعاون بوضوح",
+    "output": "أحب العمل مع فريق متعاون."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب بسيط",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب رسمي",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب قصير",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب واضح",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب لطيف",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب هادئ",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب مباشر",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب موجز",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب مناسب",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القهوة باسلوب سهل",
+    "input": "",
+    "output": "القهوة رفيقة الصباح ومصدر طاقة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب بسيط",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب رسمي",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب قصير",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب واضح",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب لطيف",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب هادئ",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب مباشر",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب موجز",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب مناسب",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن القراءة باسلوب سهل",
+    "input": "",
+    "output": "القراءة توسع المعرفة وتفتح آفاقا جديدة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب بسيط",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب رسمي",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب قصير",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب واضح",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب لطيف",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب هادئ",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب مباشر",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب موجز",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب مناسب",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التعلم باسلوب سهل",
+    "input": "",
+    "output": "التعلم المستمر طريق ثابت إلى النجاح."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب بسيط",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب رسمي",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب قصير",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب واضح",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب لطيف",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب هادئ",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب مباشر",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب موجز",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب مناسب",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن التقنية باسلوب سهل",
+    "input": "",
+    "output": "التقنية أداة قوية تسهل حياتنا اليومية."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب بسيط",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب رسمي",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب قصير",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب واضح",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب لطيف",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب هادئ",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب مباشر",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب موجز",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب مناسب",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الوقت باسلوب سهل",
+    "input": "",
+    "output": "احترام الوقت يعكس الانضباط والوعي."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب بسيط",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب رسمي",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب قصير",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب واضح",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب لطيف",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب هادئ",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب مباشر",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب موجز",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب مناسب",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن النجاح باسلوب سهل",
+    "input": "",
+    "output": "النجاح يحتاج إلى صبر وجهد متواصل."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب بسيط",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب رسمي",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب قصير",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب واضح",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب لطيف",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب هادئ",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب مباشر",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب موجز",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب مناسب",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن العمل الجماعي باسلوب سهل",
+    "input": "",
+    "output": "العمل الجماعي يصنع نتائج أقوى."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب بسيط",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب رسمي",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب قصير",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب واضح",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب لطيف",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب هادئ",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب مباشر",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب موجز",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب مناسب",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن الذكاء الاصطناعي باسلوب سهل",
+    "input": "",
+    "output": "الذكاء الاصطناعي يفتح فرصا واسعة للابتكار."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب بسيط",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب رسمي",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب قصير",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب واضح",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب لطيف",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب هادئ",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب مباشر",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب موجز",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب مناسب",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن المدرسة باسلوب سهل",
+    "input": "",
+    "output": "المدرسة مكان مهم لبناء المعرفة."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب بسيط",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب رسمي",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب قصير",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب واضح",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب لطيف",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب هادئ",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب مباشر",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب موجز",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب مناسب",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  },
+  {
+    "instruction": "اكتب جملة قصيرة عن اللغة العربية باسلوب سهل",
+    "input": "",
+    "output": "اللغة العربية لغة جميلة وغنية بالتعبير."
+  }
+]
