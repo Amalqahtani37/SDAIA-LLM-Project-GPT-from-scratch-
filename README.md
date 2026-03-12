@@ -108,3 +108,5 @@ This project demonstrates how instruction-following language models are built us
 
 
 Although simplified, it provides practical insight into how modern LLM systems work.
+
+https://drive.google.com/drive/folders/1tAIC3lGVWZgvqL_lmW0TmIooG8a-L49v?usp=drive_link
